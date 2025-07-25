@@ -1,4 +1,4 @@
-# Real-Driving-Data-driven-Vehicle-Dynamics-and-Powertrain-Analysis-based-on-Automated-ECU-Decoding
+# Real-Driving-Data-Driven-Vehicle-Dynamics-and-Powertrain-Analysis-based-on-Automated-ECU-Signal-Identification
 
 ## Overview
 This presents an automated data analysis tool for the analysis of vehicle dynamics and electric powertrain efficiency. The data is provided by the ECUs and is dervied from real-driving scenarios on open-road tests. The code is structured to facilitate both pipeline execution and fine-tuned experimentation, ensuring adaptability for sensitivity and comparative analysis.
@@ -47,9 +47,9 @@ Additional notebooks for performing hyperparameter tuning and analyzing results:
 - Some functions allow setting a `filename_prefix`, which prompts the function to generate plots or result files with the specified prefix.
 
 ## Developer
-The main developer of this tool is Nico Rosenberger (Institute for Automotive Technology, Technical University of Munich).
+Nico Rosenberger (Institute for Automotive Technology, Technical University of Munich) is the main developer of this tool.
 
-Till Zacher contributed during his Master's Thesis (Technical University of Munich) on different modules of the tool.
+Till Zacher contributed during his Master's Thesis (Institute for Automotive Technology, Technical University of Munich) on different modules of the tool.
 
 ## Sources
 
