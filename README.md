@@ -47,9 +47,12 @@ Additional notebooks for performing hyperparameter tuning and analyzing results:
 - Some functions allow setting a `filename_prefix`, which prompts the function to generate plots or result files with the specified prefix.
 
 ## Developer
-Nico Rosenberger (Institute for Automotive Technology, Technical University of Munich) is the main developer of this tool.
+The underlying methodology, signal acquisition, reverse engineering, and previous analysis tools were developed by Nico Rosenberger (Institute for Automotive Technology, Technical University of Munich). 
 
-Till Zacher contributed during his Master's Thesis (Institute for Automotive Technology, Technical University of Munich) on different modules of the tool.
+This tool was implemented by Till Zacher (Institute for Automotive Technology, Technical University of Munich) as part of his [Master's Thesis](https://github.com/tillzacher/EV-Benchmarking-Tool/blob/8ce83c2284a13de1e58962272621db131dda67f7/Zacher%2C%20Till%20-%20Developing%20a%20Framework%20for%20Sensitivity%20and%20Comparative%20Analysis%20in%20Real%20Driving%20Data-Based%20Vehicle%20Parameter%20Extraction.pdf). 
+
+The detailed building of the data processing pipelines, the parameter tuning, and evaluation framework was carried out by Till Zacher.
+
 
 ## Sources
 
